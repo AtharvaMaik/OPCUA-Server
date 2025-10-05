@@ -1,0 +1,10 @@
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App_MarkupCompile.cache
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.g.resources
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.AssemblyInfo.cs
+C:\Users\athar\source\repos\App\obj\Debug\net8.0-windows\App.csproj.CoreCompileInputs.cache

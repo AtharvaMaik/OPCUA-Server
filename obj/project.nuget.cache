@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pM//FvVvcUA2dB9oL3OnDK5DcsSqB1C6cZhABE9saoOuAI1vLhkFAuXuU5XiYc/oXJyfHYuCMk/zIeUKiRrZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\athar\\source\\repos\\App\\OpcUaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\athar\\.nuget\\packages\\aml.engine\\4.4.4\\aml.engine.4.4.4.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\aml.engine.resources\\4.1.4\\aml.engine.resources.4.1.4.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.logging\\9.0.9\\microsoft.extensions.logging.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.options\\9.0.9\\microsoft.extensions.options.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.configuration\\1.5.377.21\\opcfoundation.netstandard.opc.ua.configuration.1.5.377.21.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.core\\1.5.377.21\\opcfoundation.netstandard.opc.ua.core.1.5.377.21.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.security.certificates\\1.5.377.21\\opcfoundation.netstandard.opc.ua.security.certificates.1.5.377.21.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.server\\1.5.377.21\\opcfoundation.netstandard.opc.ua.server.1.5.377.21.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.9\\system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.formats.asn1\\9.0.9\\system.formats.asn1.9.0.9.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.io.packaging\\9.0.2\\system.io.packaging.9.0.2.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.io.pipelines\\9.0.2\\system.io.pipelines.9.0.2.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.text.encodings.web\\9.0.2\\system.text.encodings.web.9.0.2.nupkg.sha512",
+    "C:\\Users\\athar\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

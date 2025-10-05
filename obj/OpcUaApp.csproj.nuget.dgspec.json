@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\athar\\source\\repos\\App\\OpcUaApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\athar\\source\\repos\\App\\OpcUaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\athar\\source\\repos\\App\\OpcUaApp.csproj",
+        "projectName": "OpcUaApp",
+        "projectPath": "C:\\Users\\athar\\source\\repos\\App\\OpcUaApp.csproj",
+        "packagesPath": "C:\\Users\\athar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\athar\\source\\repos\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\athar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Aml.Engine": {
+              "target": "Package",
+              "version": "[4.4.4, )"
+            },
+            "Aml.Engine.Resources": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+              "target": "Package",
+              "version": "[1.5.377.21, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Core": {
+              "target": "Package",
+              "version": "[1.5.377.21, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Server": {
+              "target": "Package",
+              "version": "[1.5.377.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
