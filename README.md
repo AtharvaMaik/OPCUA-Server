@@ -1,7 +1,6 @@
 # OPCUA-Server
 
-![Language](https://img.shields.io/badge/Language-C#-blue)
-![License](https://img.shields.io/badge/License-No%20license%20specified-lightgrey)
+System.Object[]
 
 OPCUA-Server is a Windows desktop simulator for exposing AutomationML/MTP-style
 items as an OPC UA server. It lets you load an AML/XML file, inspect the parsed
