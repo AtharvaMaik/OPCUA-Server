@@ -1,5 +1,8 @@
 # OPCUA-Server
 
+![Language](https://img.shields.io/badge/Language-C#-blue)
+![License](https://img.shields.io/badge/License-No%20license%20specified-lightgrey)
+
 OPCUA-Server is a Windows desktop simulator for exposing AutomationML/MTP-style
 items as an OPC UA server. It lets you load an AML/XML file, inspect the parsed
 OPC UA items, edit data types and initial values, then start a local OPC UA
@@ -156,6 +159,15 @@ users, and manage trusted certificates explicitly.
 - Only scalar variable nodes are supported.
 - The generated address space is flat under `PEADevices`.
 
-## License
+## Contributing
 
+Contributions are welcome. You can help by reporting bugs, suggesting features, improving documentation, or opening pull requests.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Make a focused change.
+4. Test the project locally when possible.
+5. Open a pull request with a clear summary of what changed.
+
+## License
 No license file is currently included in this repository.
