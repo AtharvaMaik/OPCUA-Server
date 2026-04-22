@@ -1,5 +1,9 @@
 # OPCUA-Server
 
+![Language](https://img.shields.io/badge/Language-C%23-blue)
+![Language](https://img.shields.io/badge/Language-XAML-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 System.Object[]
 
 OPCUA-Server is a Windows desktop simulator for exposing AutomationML/MTP-style
